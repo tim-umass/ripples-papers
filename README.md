@@ -1,4 +1,8 @@
 # PAOL Paper Targets
+## 2017 Paper Targets
+* [ICALT 2017]: Timisoara, Romania. July 3-7, 2017
+
+[ICALT 2017]: http://icalt.elearning.upt.ro/?page_id=3396
 
 ## 2016 Paper Targets
 
@@ -8,7 +12,7 @@
 
 [SIGCSE 2016]: http://conference.researchbib.com/?action=viewEventDetails&eventid=25098&uid=r2791a
 [ITICSE 2016]: https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=iticse%202016
-[ICALT 2016]: http://ask4research.info/icalt/2015
+[ICALT 2016]: http://www.ask4research.info/icalt/2016/
 
 ## 2015 Paper Targets
 
@@ -32,7 +36,6 @@
 * WCCE - World Conference on Computers in Education
 
 ## Resources
+* [Top Conferences in Computer Education - Microsoft Academic Research]
 
-* [Top Conferences in Computer Education](tcce) (Microsoft Academic Research)
-
-[tcce]: http://academic.research.microsoft.com/RankList?entitytype=3&topdomainid=2&subdomainid=23&orderby=1
+[Top Conferences in Computer Education - Microsoft Academic Research]: http://academic.research.microsoft.com/RankList?entitytype=3&topdomainid=2&subdomainid=23&orderby=1
